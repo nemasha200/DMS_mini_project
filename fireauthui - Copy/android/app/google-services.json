@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379481039018",
+    "project_id": "fireflutter-ac356",
+    "storage_bucket": "fireflutter-ac356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379481039018:android:1f73b24550acb14f04b0d3",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0M5By6T79T2pCbdBSd7qBjqMr8CL8ivU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
